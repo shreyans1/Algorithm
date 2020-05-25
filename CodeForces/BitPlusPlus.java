@@ -23,5 +23,6 @@ public class BitPlusPlus {
             }
             
         }
+        s.close();
     }
 }
